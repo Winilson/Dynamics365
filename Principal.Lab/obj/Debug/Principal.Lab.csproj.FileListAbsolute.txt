@@ -1,0 +1,11 @@
+C:\Lab\LabDyn365Winilson\Principal.Lab\bin\Debug\Principal.Lab.dll
+C:\Lab\LabDyn365Winilson\Principal.Lab\bin\Debug\Principal.Lab.pdb
+C:\Lab\LabDyn365Winilson\Principal.Lab\bin\Debug\Microsoft.Crm.Sdk.Proxy.dll
+C:\Lab\LabDyn365Winilson\Principal.Lab\bin\Debug\Microsoft.Xrm.Sdk.dll
+C:\Lab\LabDyn365Winilson\Principal.Lab\bin\Debug\Microsoft.Crm.Sdk.Proxy.xml
+C:\Lab\LabDyn365Winilson\Principal.Lab\bin\Debug\Microsoft.Xrm.Sdk.xml
+C:\Lab\LabDyn365Winilson\Principal.Lab\obj\Debug\Principal.Lab.csprojAssemblyReference.cache
+C:\Lab\LabDyn365Winilson\Principal.Lab\obj\Debug\Principal.Lab.csproj.CoreCompileInputs.cache
+C:\Lab\LabDyn365Winilson\Principal.Lab\obj\Debug\Principal.Lab.csproj.CopyComplete
+C:\Lab\LabDyn365Winilson\Principal.Lab\obj\Debug\Principal.Lab.dll
+C:\Lab\LabDyn365Winilson\Principal.Lab\obj\Debug\Principal.Lab.pdb

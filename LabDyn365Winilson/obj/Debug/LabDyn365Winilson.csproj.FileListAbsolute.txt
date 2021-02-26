@@ -1,0 +1,6 @@
+C:\Lab\LabDyn365Winilson\LabDyn365Winilson\bin\Debug\LabDyn365Winilson.dll
+C:\Lab\LabDyn365Winilson\LabDyn365Winilson\bin\Debug\LabDyn365Winilson.pdb
+C:\Lab\LabDyn365Winilson\LabDyn365Winilson\obj\Debug\LabDyn365Winilson.csprojAssemblyReference.cache
+C:\Lab\LabDyn365Winilson\LabDyn365Winilson\obj\Debug\LabDyn365Winilson.csproj.CoreCompileInputs.cache
+C:\Lab\LabDyn365Winilson\LabDyn365Winilson\obj\Debug\LabDyn365Winilson.dll
+C:\Lab\LabDyn365Winilson\LabDyn365Winilson\obj\Debug\LabDyn365Winilson.pdb
